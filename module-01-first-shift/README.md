@@ -1,3 +1,5 @@
+![Splunk SPL Practice, Module 1: First Shift](./banner.svg)
+
 # Splunk SPL Practice · Module 1: First Shift
 
 ![Splunk: SPL](https://img.shields.io/badge/Splunk-SPL-1F2433?style=for-the-badge) ![Module: 1 of 8](https://img.shields.io/badge/Module-1%20of%208-3D46C9?style=for-the-badge) ![Status: Complete](https://img.shields.io/badge/Status-Complete-1D7A4C?style=for-the-badge) ![Badge: First Light](https://img.shields.io/badge/Badge-First%20Light-D9501F?style=for-the-badge)

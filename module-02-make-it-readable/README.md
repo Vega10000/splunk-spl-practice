@@ -1,3 +1,5 @@
+![Splunk SPL Practice, Module 2: Make It Readable](./banner.svg)
+
 # Splunk SPL Practice · Module 2: Make It Readable
 
 ![Splunk: SPL](https://img.shields.io/badge/Splunk-SPL-1F2433?style=for-the-badge) ![Module: 2 of 8](https://img.shields.io/badge/Module-2%20of%208-3D46C9?style=for-the-badge) ![Status: Complete](https://img.shields.io/badge/Status-Complete-1D7A4C?style=for-the-badge) ![Badge: Clean Tables](https://img.shields.io/badge/Badge-Clean%20Tables-D9501F?style=for-the-badge)
